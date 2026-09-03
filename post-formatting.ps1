@@ -1,5 +1,3 @@
-[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
-
 # Carrega as bibliotecas visuais do Windows
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
